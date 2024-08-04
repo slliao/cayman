@@ -8,4 +8,4 @@ date_format: "%b %-d, %Y"
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-gist
+
